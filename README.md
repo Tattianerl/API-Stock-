@@ -29,7 +29,7 @@ A API oferece as seguintes funcionalidades:
 - **URL**: `/api/products`
 - **Corpo da Requisição**:
   ```json
-  Copiar código
+  
   {
       "name": "Nome do Produto",
       "description": "Descrição do Produto",
@@ -56,7 +56,7 @@ A API oferece as seguintes funcionalidades:
 `URL: /api/products/{id}`
 - **Corpo da Requisição**:
  ```json
-Copiar código
+
 {
     "id": 1,
     "name": "Produto Atualizado",
